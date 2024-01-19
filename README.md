@@ -1,8 +1,5 @@
 # Wix Homebrew Tap
 
-This is a [Homebrew][brew] tap for formulae for software developed by Wix.
-
-
 ## Setup
 
 Using these formulae requires Homebrew, which in turn requires Xcode. If you
@@ -47,11 +44,3 @@ brew upgrade
 ## Contributing
 
 Please file bug reports and/or enhancement requests as GitHub issues of the individual projects, not this repository.
-
-## References
-
-`brew help`, `man brew`, or the Homebrew [documentation][].
-
-[brew]: http://brew.sh/
-[style]: https://github.com/Homebrew/brew/blob/master/docs/Formula-Cookbook.md
-[documentation]: https://github.com/Homebrew/brew/blob/master/docs/README.md
